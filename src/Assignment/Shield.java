@@ -1,6 +1,6 @@
 package Assignment;
 
-public class Shield extends Item implements Action {
+public class Shield extends Item implements itemInterface {
     private int damage_block;
 
     @Override

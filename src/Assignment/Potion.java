@@ -1,6 +1,6 @@
 package Assignment;
 
-public class Potion extends Item implements Action {
+public class Potion extends Item implements itemInterface {
     private int duration;
     private int effect_point;
     private String type;

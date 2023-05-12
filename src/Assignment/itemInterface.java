@@ -1,5 +1,5 @@
 package Assignment;
 
-public interface Action {
+public interface itemInterface {
     public void use();
 }

@@ -1,6 +1,6 @@
 package Assignment;
 
-public class Sword extends Item implements Action{
+public class Sword extends Item implements itemInterface {
     private int damage;
 
     @Override
